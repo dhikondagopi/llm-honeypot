@@ -1,0 +1,11 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+
+# Logs & runtime data
+logs/
+keys/
+
+# OS
+.DS_Store
